@@ -1,0 +1,7 @@
+name: IncBossesAbility_Regeneration
+version: '${project.version}'
+main: ru.incrementstudio.incbosses.abilities.incbossesability_regeneration.Main
+api-version: '1.16'
+author: IncrementStudio++
+description: Способность для плагина IncBosses, позволяющая настроить регенерацию здоровья!
+website: incrementstudio.ru
