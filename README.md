@@ -1,5 +1,5 @@
 # IncBossesAbility_Regeneration
-**_IncBossesAbility_Regeneration_** - это способность для плагина **IncBosses**, добавляющая уведомления о начале или конце фазы!
+**_IncBossesAbility_Regeneration_** - это способность для плагина **IncBosses**, позволяющая настроить регенерацию здоровья!
 
 ## Использование
 Чтобы использовать способность, вам достаточно всего лишь загрузить [**_.jar_**](https://github.com/IncrementStudio/IncBossesAbility_Regeneration/releases/download/1.0/IncBossesAbility_Regeneration-1.0.jar) файл способности и переместить его в папку **_plugins/IncBosses/abilities_**.
